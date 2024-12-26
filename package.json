@@ -1,6 +1,6 @@
 {
   "name": "jspdf-html2canvas-pro",
-  "version": "1.5.22",
+  "version": "1.5.221",
   "description": "A combine usage with jsPDF and html2canvas-pro, which translating html content to PDF file.",
   "main": "dist/jspdf-html2canvas-pro.min.js",
   "module": "dist/jspdf-html2canvas-pro.min.js",
