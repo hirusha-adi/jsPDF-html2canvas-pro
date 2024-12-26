@@ -526,10 +526,10 @@ has@^1.0.3:
   dependencies:
     function-bind "^1.1.1"
 
-html2canvas-pro@^1.5.6:
-  version "1.5.6"
-  resolved "https://registry.npmjs.org/html2canvas-pro/-/html2canvas-pro-1.5.6.tgz"
-  integrity sha512-L3tbWciKel9hiHl5CQVnVJz9+X38QVLzFyBMcoHD0FRF67ch4m/t9D+9/YTQ/A7a1av+tc+TIGAJbOWewvdXkA==
+html2canvas-pro@^1.5.8:
+  version "1.5.8"
+  resolved "https://registry.npmjs.org/html2canvas-pro/-/html2canvas-pro-1.5.8.tgz"
+  integrity sha512-bVGAU7IvhBwBlRAmX6QhekX8lsaxmYoF6zIwf/HNlHscjx+KN8jw/U4PQRYqeEVm9+m13hcS1l5ChJB9/e29Lw==
   dependencies:
     css-line-break "^2.1.0"
     text-segmentation "^1.0.3"
