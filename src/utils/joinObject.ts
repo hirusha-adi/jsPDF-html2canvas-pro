@@ -15,7 +15,7 @@ export default function joinObject<T>(obj1: any, obj2: any): T {
       if (isObject_1 && isObject_2) {
         if (isFn(obj1[key]) && isFn(obj2[key])) {
           if (isFn(obj1[key]) && !isFn(obj2[key])) {
-            console.error(`[jspdf-html2canvas] config key "${key}" type invalid`);
+            console.error(`[jspdf-html2canvas-pro] config key "${key}" type invalid`);
           } else {
             obj1[key] = obj2[key];
           }

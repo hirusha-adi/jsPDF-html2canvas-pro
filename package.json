@@ -1,9 +1,9 @@
 {
-  "name": "jspdf-html2canvas",
+  "name": "jspdf-html2canvas-pro",
   "version": "1.5.2",
   "description": "A combine usage with jsPDF and html2canvas, which translating html content to PDF file.",
-  "main": "dist/jspdf-html2canvas.min.js",
-  "module": "dist/jspdf-html2canvas.min.js",
+  "main": "dist/jspdf-html2canvas-pro.min.js",
+  "module": "dist/jspdf-html2canvas-pro.min.js",
   "scripts": {
     "prebuild": "rm -rf ./dist",
     "dev": "cross-env NODE_ENV=development webpack --mode development --watch",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johnnywang1994/jsPDF-html2canvas.git"
+    "url": "git+https://github.com/hirusha-adi/jspdf-html2canvas-pro.git"
   },
   "keywords": [
     "npm",
@@ -22,9 +22,9 @@
   "author": "johnnywang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/johnnywang1994/jsPDF-html2canvas/issues"
+    "url": "https://github.com/hirusha-adi/jspdf-html2canvas-pro/issues"
   },
-  "homepage": "https://github.com/johnnywang1994/jsPDF-html2canvas#readme",
+  "homepage": "https://github.com/hirusha-adi/jspdf-html2canvas-pro#readme",
   "types": "dist/index.d.ts",
   "dependencies": {
     "html2canvas-pro": "^1.5.6",

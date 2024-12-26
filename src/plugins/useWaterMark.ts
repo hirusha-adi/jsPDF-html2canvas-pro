@@ -46,7 +46,7 @@ function addWaterMark(pdf: jsPDF, opts: Options) {
       }
     }
   } else {
-    console.warn('[jspdf-html2canvas] "watermark" option should be either "string" or "function" type.');
+    console.warn('[jspdf-html2canvas-pro] "watermark" option should be either "string" or "function" type.');
   }
   return pdf;
 }
